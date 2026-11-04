@@ -14,7 +14,7 @@ The goal of this analysis was to dissect a suspicious email pretending to be fro
 
 ## 📄 The Analysis Report
 
-The complete, in-depth analysis is documented in the following file. It includes the full text of the sample email and a breakdown of each phishing indicator found.
+The complete , in-depth analysis is documented in the following file. It includes the full text of the sample email and a breakdown of each phishing indicator found.
 
 * **➡️ [View the Full Phishing Analysis Report](phishing_analysis_report.md)**
 
